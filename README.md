@@ -15,4 +15,13 @@ The data used in this project consists of the daily closing prices of five compa
 # Summary
 The Markowitz Mean-Variance Optimization (MVO) model was used to minimize investment risk in this portfolio. The Steepest Descent method was employed as a tool to minimize risk and maximize returns. 
 
-With an assumed investment return of 0.02%, and utilizing MATLAB software, the optimal stock investment allocation was determined as follows: 12.70% for PT Aneka Tambang Tbk, 8.70% for PT Elnusa Tbk, 10.20% for PT Indonesia Kendaraan Terminal Tbk, 67.20% for PT Jasa Armada Indonesia Tbk, and 1.20% for PT Kimia Farma Tbk. This allocation resulted in a minimum risk of 0.004%.
+**Recommendation:**
+
+With an assumed investment return of 0.02%, and utilizing MATLAB software, the optimal stock investment allocation was determined as follows: 
+* 12.70% for PT Aneka Tambang Tbk
+* 8.70% for PT Elnusa Tbk
+* 10.20% for PT Indonesia Kendaraan Terminal Tbk
+* 67.20% for PT Jasa Armada Indonesia Tbk
+* 1.20% for PT Kimia Farma Tbk
+
+This allocation resulted in a minimum risk of 0.004%.
